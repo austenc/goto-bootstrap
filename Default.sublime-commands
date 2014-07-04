@@ -1,0 +1,14 @@
+[	
+	{"caption": "Goto Bootstrap: CSS", "command": "goto_bootstrap", "args": {"page" : "css"}},
+	{"caption": "Goto Bootstrap: Forms", "command": "goto_bootstrap", "args": {"page" : "css/#forms"}},
+
+	{"caption": "Goto Bootstrap: Components", "command": "goto_bootstrap", "args": {"page" : "components"}},
+	{"caption": "Goto Bootstrap: Glyphicons", "command": "goto_bootstrap", "args": {"page" : "components/#glyphicons"}},
+
+	{"caption": "Goto Bootstrap: Javascript", "command": "goto_bootstrap", "args": {"page" : "javascript"}},
+
+	{"caption": "Goto Bootstrap: Customize", "command": "goto_bootstrap", "args": {"page" : "customize"}},
+
+	{"caption": "Goto Bootstrap: Examples", "command": "goto_bootstrap", "args": {"page" : "getting-started/#examples"}}
+
+]
