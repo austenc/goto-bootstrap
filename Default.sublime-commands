@@ -6,6 +6,7 @@
 	{"caption": "Goto Bootstrap: Glyphicons", "command": "goto_bootstrap", "args": {"page" : "components/#glyphicons"}},
 
 	{"caption": "Goto Bootstrap: Javascript", "command": "goto_bootstrap", "args": {"page" : "javascript"}},
+	{"caption": "Goto Bootstrap: Modals", "command": "goto_bootstrap", "args": {"page" : "javascript#modals"}},
 
 	{"caption": "Goto Bootstrap: Customize", "command": "goto_bootstrap", "args": {"page" : "customize"}},
 
